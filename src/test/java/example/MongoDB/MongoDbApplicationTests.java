@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class MongoDbApplicationTests {
 
 	@Test
-	@DisplayName("Name The Test method")
+	@DisplayName("Name The Test method ok")
 	void contextLoads() {
 	}
 
